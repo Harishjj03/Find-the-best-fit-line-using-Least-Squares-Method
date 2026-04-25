@@ -24,6 +24,7 @@ Developed by: HARISHBALA J
 RegisterNumber:  212224223002
 */
 ```
+```
 import numpy as np
 import matplotlib.pyplot as plt
 
